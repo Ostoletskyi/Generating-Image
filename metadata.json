@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Portrait Studio",
+  "description": "An application that generates a photorealistic portrait of a woman based on a detailed text prompt using the Gemini API. Users can customize the prompt and aspect ratio to create stunning, high-quality images.",
+  "requestFramePermissions": []
+}
